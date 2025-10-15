@@ -1,0 +1,22 @@
+CRITERIOS DETALLADOS POR ETAPA
+ETAPA 1: EXPLORACIÓN (4 puntos)
+•	Análisis descriptivo: Estadísticas básicas, valores atípicos, distribución
+•	Visualización: Gráficos de serie temporal, descomposición
+•	Identificación de componentes: Tendencia, estacionalidad, ciclos
+•	Evaluación de estacionariedad: Análisis visual y estadístico
+ETAPA 2: IDENTIFICACIÓN (4 puntos)
+•	Funciones de autocorrelación: Cálculo e interpretación de ACF y PACF
+•	Selección del modelo: Justificación teórica (AR, MA, ARIMA, etc.)
+•	Determinación de órdenes: Criterios AIC, BIC, pruebas estadísticas
+ETAPA 3: ESTIMACIÓN (4 puntos)
+•	Métodos de estimación: ML, MLE, documentación del proceso
+•	Parámetros estimados: Valores, intervalos de confianza, significancia
+•	Bondad de ajuste: R², AIC, BIC, interpretación
+ETAPA 4: VALIDACIÓN (4 puntos)
+•	Diagnóstico de residuos: Normalidad, autocorrelación, heterocedasticidad
+•	Pruebas estadísticas: Ljung-Box, Jarque-Bera, ARCH
+•	Estabilidad del modelo: Robustez temporal
+ETAPA 5: PRONÓSTICOS (4 puntos)
+•	Generación: Pronósticos con intervalos de confianza
+•	Evaluación de precisión: MAE, RMSE, MAPE
+•	Interpretación: Contexto del problema, recomendaciones
